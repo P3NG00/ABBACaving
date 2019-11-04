@@ -1,0 +1,11 @@
+main: com.p3ng00.abbacaving.Main
+name: ABBACaving
+version: 0.0
+author: P3NG00
+api-version: 1.13
+prefix: ABBA
+
+commands:
+  abba:
+    description: ABBA Caving Plugin
+    usage: /abba party [start|end|join]
